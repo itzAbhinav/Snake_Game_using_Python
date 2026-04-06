@@ -26,7 +26,7 @@ time (for game speed control)
 <img width="780" height="392" alt="Screenshot 2026-04-07 at 07 39 25" src="https://github.com/user-attachments/assets/acb9e5f9-a8a1-4437-8300-89a1570b305e" />
 <br>
 <br>
-# 📸 Gameplay Overview
+#  📸 Gameplay Overview
 
 The snake starts at the center of the screen.
 Eat the pink food to grow and increase your score.
